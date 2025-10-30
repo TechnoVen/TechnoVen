@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## 👋 Hi there, Welcome!
 
-### My name is **Ahmed Nadir*, caal me **Nadir**.  
+### My name is _**Ahmed Nadir**_, caal me **Nadir**.  
 💡 Agile Coach | 🧘‍♂️ Meditation Teacher | 💻 Business Consultant | 🌍 Entrepreneur | 🧠 DevOps Master  
 
 ---
