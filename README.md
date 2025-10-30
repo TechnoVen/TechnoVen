@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## 👋 Hi there, Welcome!
 
 ### My name is _**Ahmed Nadir**_, call me **Nadir**.  
-💡 Agile Coach | 🧘‍♂️ Meditation Teacher | 💻 Business Consultant | 🌍 Entrepreneur | 🧠 DevOps Master  
+💡 Agile Coach | 💼 Business Consultant | 🛋️ Entrepreneur | 🧘‍♂️ Meditation Conductor  
 
 ---
 
@@ -37,17 +37,18 @@ Here are some ideas to get you started:
 ---
 
 ### 🧠 Learning & Exploring
-- 🔁 Learning coding again  
+- 👨🏽‍💻 Learning coding again  
 - 🗃️ Data Science | Data Analysis  
 - 💎 Ruby & Ruby on Rails  
 - 🐍 Python (Next focus)
-- 🖥 HTML, CSS, PHP — just enough to get creative 
+- 🚀 DevOps
+- 🖥 HTML, CSS, PHP — just enough to get creative
 - 🦋 Webmastering 
 
 ---
 
 ### 🛠️ Tools & Skills
-💬 Agile | 🧘‍♂️ Mindfulness | ⚙️ Scrum | 💼 Business Strategy | 📈 Productivity  
+💬 Agile | ⚙️ Scrum | 💼 Business Strategy | 📈 Productivity | 🧘‍♂️ Mindfulness  
 💻 Trello | Notion | Miro | Jira | Figma | Slack | ChatGPT | Git | GitHub  
 
 ---
