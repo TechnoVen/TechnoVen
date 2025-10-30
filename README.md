@@ -1,3 +1,4 @@
+![Ahmed Nadir](https://github.com/TechnoVen/TechnoVen/blob/main/GitHub_Cover.png)
 ## Hi there 👋
 
 <!--
