@@ -1,5 +1,5 @@
 ![Ahmed Nadir](https://github.com/TechnoVen/TechnoVen/blob/main/GitHub_Cover.png)
-## Hi there 👋
+## Hi there 👋🏽
 
 <!--
 **TechnoVen/TechnoVen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 👋 Hi there, Welcome!
 
 ### My name is _**Ahmed Nadir**_, call me **Nadir**.  
 💡 Agile Coach | 💼 Business Consultant | 🛋️ Entrepreneur | 🧘‍♂️ Meditation Conductor  
