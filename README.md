@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 
 ### 🧠 Learning & Exploring
 - 🔁 Learning coding again  
-- 💻 Data Science | Data Analysis | DevOps  
-- 🦋 Ruby & Ruby on Rails  
+- 🗃️ Data Science | Data Analysis  
+- 💎 Ruby & Ruby on Rails  
 - 🐍 Python (Next focus)
-- HTML, CSS, PHP — just enough to get creative 
-- 🌐 Webmastering 
+- 🖥 HTML, CSS, PHP — just enough to get creative 
+- 🦋 Webmastering 
 
 ---
 
