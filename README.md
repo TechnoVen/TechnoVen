@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 ### 📫 How to reach me
 🌐 [https://ahmednadir.com](#)  
-📧 [email@example.com](#)  
+📧 [Email](#)  
 💬 LinkedIn - @menadir
 💬 Reddit – @FractalNadir 
 <!--💬 LinkedIn / Medium / Reddit – @FractalNadir -->
