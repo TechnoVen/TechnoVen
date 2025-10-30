@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## 👋 Hi there, Welcome!
 
-### Hello, my name is **Ahmed Nadir**  
+### My name is **Ahmed Nadir*, caal me **Nadir**.  
 💡 Agile Coach | 🧘‍♂️ Meditation Teacher | 💻 Business Consultant | 🌍 Entrepreneur | 🧠 DevOps Master  
 
 ---
@@ -40,8 +40,9 @@ Here are some ideas to get you started:
 - 🔁 Learning coding again  
 - 💻 Data Science | Data Analysis | DevOps  
 - 🦋 Ruby & Ruby on Rails  
-- 🐍 Python (Next focus)  
-- 🌐 Webmastering (HTML, CSS, PHP — just enough to get creative)  
+- 🐍 Python (Next focus)
+- HTML, CSS, PHP — just enough to get creative 
+- 🌐 Webmastering 
 
 ---
 
@@ -69,7 +70,9 @@ Here are some ideas to get you started:
 ### 📫 How to reach me
 🌐 [https://ahmednadir.com](#)  
 📧 [email@example.com](#)  
-💬 LinkedIn / Medium / Reddit – @FractalNadir  
+💬 LinkedIn - @menadir
+💬 Reddit – @FractalNadir 
+<!--💬 LinkedIn / Medium / Reddit – @FractalNadir -->
 
 ---
 
