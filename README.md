@@ -681,11 +681,11 @@ If you want, next I can:
 * Or create a monetization path toward consulting products**
 
 Where do you want to go next?
--->
+
 ### 📈 GitHub Stats Section
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechnoVen&show_icons=true&theme=default)
-
+--->
 
 ### 🔥 Contribution Streak
 
