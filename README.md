@@ -628,7 +628,7 @@ It’s building systems that compound.
 
 🌐 [https://ahmednadir.com](https://ahmednadir.com)
 💼 LinkedIn: @menadir
-📧 Email: (add your email)
+<!--📧 Email: (add your email)-->
 
 ---
 
