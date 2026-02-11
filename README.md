@@ -508,10 +508,10 @@ Below is a refined, strategic README crafted specifically for that identity.
 You can copy this version:
 
 ---
--->
+
 
 ## Ahmed Nadir
-
+-->
 ### Data & Systems Consultant | Agile Strategist | Builder
 
 Designing intelligent systems — in data, business, and people.
